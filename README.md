@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/vesuvius_banner.png" width="400" alt="Vibecoder Kit Survival Banner" />
+  <img src="assets/laber_banner.png" width="800" alt="Laber Company Elite Visual Banner" />
   
   # VIBECODER-KIT-SURVIVAL
   
   ### The Ultimate Visual and Rendering Pipeline for High-Velocity Vibe Coders
   
-  [![Built by Laber Company](https://img.shields.io/badge/Built%20by-Laber%20Company-0052FF?style=flat-square)](#)
-  [![Render Engine Cycles OptiX](https://img.shields.io/badge/Render%20Engine-Cycles%20OptiX-orange?style=flat-square)](#)
+  [![Built by Laber Company](https://img.shields.io/badge/Built%20by-Laber%20Company-0B1B3D?style=flat-square)](#)
+  [![Render Engine Cycles OptiX](https://img.shields.io/badge/Render%20Engine-Cycles%20OptiX-C5A059?style=flat-square)](#)
   [![Blender Version 4.1+](https://img.shields.io/badge/Blender%20Version-4.1%2B-5300FF?style=flat-square)](#)
   [![Agent SemVer 1.0.0](https://img.shields.io/badge/Agent%20SemVer-1.0.0-33CC66?style=flat-square)](#)
   [![MIT License](https://img.shields.io/badge/License-MIT-F4C430?style=flat-square)](LICENSE)
@@ -22,12 +22,12 @@ We cut out the developer bloat and boilerplate. No complex enterprise SaaS patte
 
 ---
 
-## Design System & Tipography
+## Design System & Typography
 
 To maintain the premium visual density of our digital outputs, we adhere strictly to our elite typographic principles:
-*   **Titles & Display:** **Outfit** (Elegant, modern geometric sans)
-*   **Body Copy:** **Plus Jakarta Sans** (Highly legible, sophisticated, clean)
-*   **Palette:** Rich dark background with popping visual accentuation (Argilla & Gold)
+*   **Titles & Display:** **Cormorant Garamond** (Luxury editorial serif)
+*   **Body Copy:** **Outfit** (Elegant, modern geometric sans)
+*   **Palette (Mixed Light-Classic):** Crema/perla background, deep navy blue text, satin gold details.
 
 ---
 

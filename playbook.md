@@ -21,7 +21,7 @@ Hacker News apprezza l'utilità tecnica reale, l'open-source senza fronzoli comm
 Reddit richiede una forte personalizzazione del messaggio a seconda del subreddit di riferimento. Evitare il cross-posting identico per non essere segnalati come spammer.
 
 ### Subreddit Target e Taglio Editoriale:
-*   **r/webdev:** Focus sulla velocità di rilascio delle landing page premium. Spiegare come un frontend sviluppato con font moderni (es. Outfit e Plus Jakarta Sans) possa essere convertito automaticamente in mockup 3D per i clienti.
+*   **r/webdev:** Focus sulla velocità di rilascio delle landing page premium. Spiegare come un frontend sviluppato con font moderni (es. Cormorant Garamond ed Outfit) possa essere convertito automaticamente in mockup 3D per i clienti.
 *   **r/blender:** Focus tecnico sullo scripting Python per Cycles. Mostrare come lo script manipoli il nodo `MockupScreen` e configuri in modo programmatico il denoiser OptiX o OpenImageDenoise.
 *   **r/programming:** Focus sulla filosofia del "Vibe Coding" e sul minimalismo del codice secondo le linee guida Karpathy.
 *   **r/selfhosted:** Presentare il kit come un'alternativa self-hosted e locale ai costosi servizi SaaS di rendering mockup basati su cloud.
@@ -35,7 +35,7 @@ LinkedIn è ideale per mostrare il valore economico ed operativo per le aziende 
 1.  **Gancio (Hook):** "Gli sviluppatori tradizionali scrivono boilerplate. I Vibe Coder creano valore. Ecco come riduciamo il tempo di mockup 3D dell'80%."
 2.  **Problema:** Creare e renderizzare mockup ad alta risoluzione richiede ore e licenze SaaS costose.
 3.  **Soluzione:** Un'architettura locale gratuita che unisce script di automazione e la potenza di rendering di Blender.
-4.  **Impatto Estetico:** Citare la cura tipografica (l'uso dei font Outfit e Plus Jakarta Sans) per creare interfacce Awwwards-style che convertono a colpo d'occhio.
+4.  **Impatto Estetico:** Citare la cura tipografica (l'uso dei font Cormorant Garamond ed Outfit) per creare interfacce Awwwards-style che convertono a colpo d'occhio.
 5.  **Call to Action:** Link diretto alla repository GitHub incoraggiando il feedback e il contributo open-source.
 
 ---
@@ -49,7 +49,7 @@ Su X il lancio deve far leva sulla filosofia "Build in Public" ed essere forteme
 *   **Tweet 2 (La Componente Tecnica):** Screenshot del codice python che configura i dispositivi OptiX GPU e associa dinamicamente la texture al materiale `MockupScreen`.
     *   *Testo:* "Under the hood: pure Python scripting with Blender API. Automatically detects NVIDIA RTX cards, sets OptiX GPU rendering, handles denoising, and updates material textures dynamically. No manual clicks allowed."
 *   **Tweet 3 (Estetica Premium):** Dettagli sul design system.
-    *   *Testo:* "Designed for premium visual density. We enforce an aesthetic built on Outfit (headers) and Plus Jakarta Sans (body). Perfect typography combined with high-fidelity Cycles renders makes your product look like an Awwwards winner."
+    *   *Testo:* "Designed for premium visual density. We enforce an aesthetic built on Cormorant Garamond (headers) and Outfit (body). Perfect typography combined with high-fidelity Cycles renders makes your product look like an Awwwards winner."
 *   **Tweet 4 (Call to Action):** Link alla repo.
     *   *Testo:* "We are fully open-source and ready for high-velocity teams. Check out the repo, star it, and start vibe-coding: [Link GitHub]"
 
