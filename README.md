@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" width="400" alt="Vibecoder Kit Survival Banner" />
+  <img src="assets/vesuvius_banner.png" width="400" alt="Vibecoder Kit Survival Banner" />
   
   # VIBECODER-KIT-SURVIVAL
   
