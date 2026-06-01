@@ -5,7 +5,7 @@
   
   ### The Ultimate Visual and Rendering Pipeline for High-Velocity Vibe Coders
   
-  [![Built by Salvatore Laezza](https://img.shields.io/badge/Built%20by-Salvatore%20Laezza-0052FF?style=flat-square)](#)
+  [![Built by Laber Company](https://img.shields.io/badge/Built%20by-Laber%20Company-0052FF?style=flat-square)](#)
   [![Render Engine Cycles OptiX](https://img.shields.io/badge/Render%20Engine-Cycles%20OptiX-orange?style=flat-square)](#)
   [![Blender Version 4.1+](https://img.shields.io/badge/Blender%20Version-4.1%2B-5300FF?style=flat-square)](#)
   [![Agent SemVer 1.0.0](https://img.shields.io/badge/Agent%20SemVer-1.0.0-33CC66?style=flat-square)](#)
@@ -86,4 +86,4 @@ We operate on a strict high-performance checklist to guarantee minimal code foot
 
 ## License
 
-This project is licensed under the MIT License: see the [LICENSE](LICENSE) file for details. Created with passion by Salvatore Laezza (2026).
+This project is licensed under the MIT License: see the [LICENSE](LICENSE) file for details. Created with passion by Salvatore Laezza (Laber Company - 2026).
