@@ -37,13 +37,10 @@ Below is the conceptual pipeline illustrating how visual assets flow from state 
 
 ```mermaid
 flowchart LR
-    classDef primary fill:#151515,stroke:#0052FF,stroke-width:2px,color:#fff;
-    classDef secondary fill:#0A0A0A,stroke:#FF5733,stroke-width:1px,color:#f4f4f0;
-
-    A[UI State Capture]:::primary -->|Screenshot PNG| B[Mockup Screen Material]:::primary
-    B -->|Automatic Mapping| C[Blender Render Engine]:::secondary
-    C -->|OptiX Cycles GPU| D[Cycles High Samples]:::secondary
-    D -->|1920x1080 Output| E[Production-Ready Mockups]:::primary
+    A[UI State Capture] -->|Screenshot PNG| B[Mockup Screen Material]
+    B -->|Automatic Mapping| C[Blender Render Engine]
+    C -->|OptiX Cycles GPU| D[Cycles High Samples]
+    D -->|1920x1080 Output| E[Production-Ready Mockups]
 ```
 
 ---
